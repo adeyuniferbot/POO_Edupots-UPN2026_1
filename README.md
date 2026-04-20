@@ -1,2 +1,4 @@
 # POO_Proyect-UPN
 Repositorio del curso POO donde se avanzara el proyecto e informe
+# IDENTIFICACION DEL PROBLEMA 
+En la educación primaria, muchos docentes enfrentan dificultades para organizar y gestionar de manera eficiente sus actividades pedagógicas, ya que suelen depender de métodos tradicionales que no permiten una adecuada planificación ni personalización del aprendizaje por estudiante. Esta situación limita el seguimiento individual del desempeño académico, dificultando la identificación oportuna de avances y dificultades en cada niño. Asimismo, la comunicación con los padres de familia suele ser irregular y poco estructurada, lo que impide que estos estén informados de manera continua sobre el progreso, comportamiento y necesidades educativas de sus hijos. Como consecuencia, se genera una desconexión entre el docente y el entorno familiar, afectando el acompañamiento y el desarrollo integral del estudiante. 
