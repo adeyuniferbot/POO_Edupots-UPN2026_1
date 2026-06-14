@@ -1,0 +1,12 @@
+R1781311750319|U003|Estudiante EduPots|Q001|Quiz de Suma|40|4|6|246|12/06/2026 19:49|Explorador
+R1781313925431|U003|Estudiante EduPots|Q001|Quiz de Suma|50|5|5|58|12/06/2026 20:25|Explorador
+R1781314291198|U003|Estudiante EduPots|Q002|Quiz de Multiplicación|80|8|2|72|12/06/2026 20:31|Experto
+R1781314636284|U003|Estudiante EduPots|Q005|Quiz de Ecuaciones|90|9|1|211|12/06/2026 20:37|Experto
+R1781316732595|U003|Estudiante EduPots|Q001|Quiz de Suma|30|3|7|42|12/06/2026 21:12|Principiante
+R1781365901269|U003|Estudiante EduPots|Q001|Quiz de Suma|10|1|9|502|13/06/2026 10:51|Principiante
+R1781367178256|U003|Estudiante EduPots|Q001|Quiz de Suma|30|3|7|379|13/06/2026 11:12|Principiante
+R1781368651377|U003|Estudiante EduPots|Q001|Quiz de Suma|30|3|7|97|13/06/2026 11:37|Principiante
+R1781372628096|U003|Estudiante EduPots|Q002|Quiz de Multiplicación|20|2|8|31|13/06/2026 12:43|Principiante
+R1781373993889|U003|Estudiante EduPots|Q006|Quiz de Cálculo Mental|80|8|2|43|13/06/2026 13:06|Experto
+R1781374292511|U003|Estudiante EduPots|Q002|Quiz de Multiplicación|10|1|9|20|13/06/2026 13:11|Principiante
+R1781472017750|U003|Estudiante EduPots|Q001|Quiz de Suma|30|3|7|22|14/06/2026 16:20|Principiante

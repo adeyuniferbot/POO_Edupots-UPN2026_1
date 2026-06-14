@@ -1,0 +1,66 @@
+QUIZ|Q001|Quiz de Suma|Matemáticas|Practica operaciones de suma básica|recursos/imagenes/Icono_suma.png
+PREGUNTA|P001|Q001|¿Cuánto es 15 + 23?|35|38|40|37|B
+PREGUNTA|P002|Q001|¿Cuánto es 47 + 36?|83|73|84|82|A
+PREGUNTA|P003|Q001|¿Cuánto es 8 + 9 + 7?|23|24|25|22|B
+PREGUNTA|P004|Q001|¿Cuánto es 100 + 250?|300|360|350|340|C
+PREGUNTA|P005|Q001|¿Cuánto es 63 + 17?|70|80|90|75|B
+PREGUNTA|P006|Q001|¿Cuánto es 34 + 48?|72|82|92|62|B
+PREGUNTA|P007|Q001|¿Cuánto es 125 + 75?|190|210|200|220|C
+PREGUNTA|P008|Q001|¿Cuánto es 56 + 44?|90|100|110|95|B
+PREGUNTA|P009|Q001|¿Cuánto es 77 + 13?|80|85|90|95|C
+PREGUNTA|P010|Q001|¿Cuánto es 250 + 150?|350|380|400|420|C
+QUIZ|Q002|Quiz de Multiplicación|Matemáticas|Practica tablas de multiplicar|recursos/imagenes/icono_multiplicacion.png
+PREGUNTA|P011|Q002|¿Cuánto es 7 x 8?|54|56|63|49|B
+PREGUNTA|P012|Q002|¿Cuánto es 9 x 6?|54|56|63|45|A
+PREGUNTA|P013|Q002|¿Cuánto es 12 x 5?|55|65|60|70|C
+PREGUNTA|P014|Q002|¿Cuánto es 4 x 4 x 2?|32|28|24|36|A
+PREGUNTA|P015|Q002|¿Cuánto es 11 x 11?|111|121|131|101|B
+PREGUNTA|P016|Q002|¿Cuánto es 6 x 7?|36|48|42|54|C
+PREGUNTA|P017|Q002|¿Cuánto es 8 x 9?|63|72|81|54|B
+PREGUNTA|P018|Q002|¿Cuánto es 5 x 5 x 4?|80|100|120|60|B
+PREGUNTA|P019|Q002|¿Cuánto es 3 x 12?|30|36|42|48|B
+PREGUNTA|P020|Q002|¿Cuánto es 15 x 4?|55|65|60|70|C
+QUIZ|Q003|Quiz de División|Matemáticas|Practica operaciones de división|recursos/imagenes/icono_division.png
+PREGUNTA|P021|Q003|¿Cuánto es 48 ÷ 6?|6|8|7|9|B
+PREGUNTA|P022|Q003|¿Cuánto es 81 ÷ 9?|7|8|9|10|C
+PREGUNTA|P023|Q003|¿Cuánto es 100 ÷ 5?|15|20|25|30|B
+PREGUNTA|P024|Q003|¿Cuánto es 72 ÷ 8?|7|8|9|10|C
+PREGUNTA|P025|Q003|¿Cuánto es 56 ÷ 7?|6|7|8|9|C
+PREGUNTA|P026|Q003|¿Cuánto es 36 ÷ 4?|7|8|9|10|C
+PREGUNTA|P027|Q003|¿Cuánto es 90 ÷ 10?|7|8|9|10|C
+PREGUNTA|P028|Q003|¿Cuánto es 64 ÷ 8?|6|7|8|9|C
+PREGUNTA|P029|Q003|¿Cuánto es 45 ÷ 5?|7|8|9|10|C
+PREGUNTA|P030|Q003|¿Cuánto es 120 ÷ 6?|15|20|25|30|B
+QUIZ|Q004|Quiz de Geometría|Matemáticas|Aprende sobre figuras geométricas|recursos/imagenes/icono_geometria.png
+PREGUNTA|P031|Q004|¿Cuántos lados tiene un triángulo?|2|3|4|5|B
+PREGUNTA|P032|Q004|¿Cuántos lados tiene un hexágono?|5|6|7|8|B
+PREGUNTA|P033|Q004|¿Cómo se llama el punto medio de un círculo?|Radio|Diámetro|Centro|Arco|C
+PREGUNTA|P034|Q004|Área del cuadrado con lado = 5. ¿Cuánto es?|10|20|25|30|C
+PREGUNTA|P035|Q004|Perímetro del cuadrado con lado = 4. ¿Cuánto es?|8|12|16|20|C
+PREGUNTA|P036|Q004|¿Cuántos vértices tiene un cubo?|6|8|10|12|B
+PREGUNTA|P037|Q004|¿Cómo se llama un polígono de 8 lados?|Heptágono|Octágono|Nonágono|Decágono|B
+PREGUNTA|P038|Q004|Área del rectángulo de base 6 y altura 4. ¿Cuánto es?|10|20|24|28|C
+PREGUNTA|P039|Q004|¿Cuántos ángulos tiene un triángulo?|2|3|4|5|B
+PREGUNTA|P040|Q004|La suma de ángulos interiores de un triángulo es:|90°|180°|270°|360°|B
+QUIZ|Q005|Quiz de Ecuaciones|Matemáticas|Resuelve ecuaciones básicas|recursos/imagenes/icono_ecuaciones.png
+PREGUNTA|P041|Q005|Si x + 5 = 12, ¿cuánto vale x?|5|6|7|8|C
+PREGUNTA|P042|Q005|Si x - 3 = 9, ¿cuánto vale x?|6|9|12|15|C
+PREGUNTA|P043|Q005|Si 2x = 16, ¿cuánto vale x?|6|7|8|9|C
+PREGUNTA|P044|Q005|Si x / 4 = 5, ¿cuánto vale x?|15|20|25|30|B
+PREGUNTA|P045|Q005|Si x + 8 = 20, ¿cuánto vale x?|10|11|12|13|C
+PREGUNTA|P046|Q005|Si 3x = 21, ¿cuánto vale x?|5|6|7|8|C
+PREGUNTA|P047|Q005|Si x - 7 = 14, ¿cuánto vale x?|19|21|23|25|B
+PREGUNTA|P048|Q005|Si 5x = 45, ¿cuánto vale x?|7|8|9|10|C
+PREGUNTA|P049|Q005|Si x + 15 = 30, ¿cuánto vale x?|10|15|20|25|B
+PREGUNTA|P050|Q005|Si x / 3 = 7, ¿cuánto vale x?|18|21|24|27|B
+QUIZ|Q006|Quiz de Cálculo Mental|Matemáticas|Desafía tu velocidad mental|recursos/imagenes/icono_calculo.png
+PREGUNTA|P051|Q006|¿Cuánto es el doble de 35?|60|65|70|75|C
+PREGUNTA|P052|Q006|¿Cuánto es la mitad de 84?|38|40|42|44|C
+PREGUNTA|P053|Q006|¿Cuánto es 99 + 1?|99|100|101|110|B
+PREGUNTA|P054|Q006|¿Cuánto es 50 x 2?|50|100|150|200|B
+PREGUNTA|P055|Q006|¿Cuánto es 1000 - 250?|650|700|750|800|C
+PREGUNTA|P056|Q006|¿Cuánto es el triple de 12?|24|36|48|60|B
+PREGUNTA|P057|Q006|¿Cuántos minutos hay en 2 horas?|100|110|120|130|C
+PREGUNTA|P058|Q006|¿Cuánto es 25 x 4?|80|90|100|110|C
+PREGUNTA|P059|Q006|¿Cuánto es 200 ÷ 4?|40|50|60|70|B
+PREGUNTA|P060|Q006|¿Cuánto es 7 + 8 + 9 + 6?|28|30|32|34|B

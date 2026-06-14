@@ -1,0 +1,3 @@
+U001|Administrador EduPots|admin@edupots.com|1234|ADMINISTRADOR|ADM001
+U002|Docente EduPots|docente@edupots.com|1234|DOCENTE|DOC001|Matemáticas
+U003|Estudiante EduPots|estudiante@edupots.com|1234|ESTUDIANTE|EST001|3ro Primaria|500|12
